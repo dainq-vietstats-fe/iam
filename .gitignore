@@ -1,0 +1,35 @@
+# Nuxt
+.nuxt
+.output
+dist
+
+# Node
+node_modules
+*.log*
+.npm
+.pnpm-debug.log*
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+coverage
+*.lcov
+
+# Build
+build
+.vercel
+.netlify
